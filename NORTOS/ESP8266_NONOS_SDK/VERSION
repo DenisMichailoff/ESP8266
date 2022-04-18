@@ -1,0 +1,22 @@
+gwen:
+    at          :   a58da79
+    crypto      :   53b6e66
+    espnow      :   53b6e66
+    main        :   a58da79
+    net80211    :   bbc3bef
+    pp          :   c0eb301
+    ssl         :   53b6e66
+    upgrade     :   53b6e66
+    wpa         :   53b6e66
+    wpa2        :   53b6e66
+    wps         :   53b6e66
+
+phy:
+    phy         :   1155
+
+gitlab:
+    driver      :   9f17ed94
+    json        :   b25135a5
+    lwip        :   11599083
+    mbedtls     :   9f02a8a5
+    smartconfig :   656f3c42(v2.5.5)
